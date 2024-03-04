@@ -1,37 +1,51 @@
-# Hi there! 👋
+<p align="center">
+  <img src="https://your-image-url.com" alt="Your Name" width="200"/>
+</p>
 
-I'm [Your Name], a passionate [Your Profession or Interest] from [Your Location]. Welcome to my GitHub profile!
+<h1 align="center">Hi there, I'm Your Name 👋</h1>
 
-## About me
+<p align="center">
+  <a href="https://your-website.com">Website</a> •
+  <a href="https://twitter.com/yourtwitter">Twitter</a> •
+  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a>
+</p>
 
-I love [Your Interests/Hobbies], and I'm particularly interested in [Specific Field or Technology]. In my free time, you can find me [What you like to do].
+<p align="center">I'm a passionate [Your Profession or Interest] from [Your Location]. Welcome to my GitHub profile!</p>
 
-## Current Work
+<h2 align="center">About Me</h2>
 
-- 🔭 I’m currently working on [Project Name/Description]
-- 🌱 I’m currently learning [Technology/Tool/Concept]
+<p align="center">
+  I love [Your Interests/Hobbies], and I'm particularly interested in [Specific Field or Technology]. In my free time, you can find me [What you like to do].
+</p>
 
-## Reach me
+<h2 align="center">Current Work</h2>
 
-- 💬 Ask me about [Anything you're knowledgeable about]
-- 📫 How to reach me: [Your Contact Information]
+<p align="center">
+  🔭 I’m currently working on [Project Name/Description]
+  <br>
+  🌱 I’m currently learning [Technology/Tool/Concept]
+</p>
 
-## My Stats
+<h2 align="center">Reach Me</h2>
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+<p align="center">
+  💬 Ask me about [Anything you're knowledgeable about]
+  <br>
+  📫 How to reach me: [Your Contact Information]
+</p>
 
-## Top Languages
+<h2 align="center">My Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="Your Name's GitHub Stats"/>
+</p>
 
-## My Projects
+<h2 align="center">Top Languages</h2>
 
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Your Name's Top Languages"/>
+</p>
 
-## Fun Fact
+<h2 align="center">My Projects</h2>
 
-Did you know [Interesting Fact About Yourself]?
-
-Let's connect and collaborate! 😊
+<p
